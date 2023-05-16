@@ -5,7 +5,7 @@ Artificial Intelligence (AI) is not just for computer scientists and engineers, 
 
 `````{admonition} What is intelligence, AI, and the AI landscape
 :class: tip
-* [Lecture Slides](https://neerajww.github.io/ai4all/docs/ric_AI4All_lect_main.pdf)
+* [Lecture Slides](https://neerajww.github.io/ai4all/ric_AI4All_lect_main.pdf)
 `````
 
 `````{admonition} Computing with python
@@ -24,8 +24,5 @@ Artificial Intelligence (AI) is not just for computer scientists and engineers, 
 `````{admonition} Deployement: Using Gradio
 :class: tip
 * [Lecture Slides](slides.pdf)
-* [Image Classification Jupyter Notebook](link)
-* [Laptop Price Prediction Jupyter Notebook](link)
-* [Sentiment Analysis Jupyter Notebook](link)
-* [Speaker Verification Jupyter Notebook](link)
+* [Tutorial Jupyter Notebook](https://mlswagat.github.io/tools.html)
 `````
