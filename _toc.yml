@@ -4,27 +4,28 @@
 format: jb-book
 root: intro
 chapters:
-- file: python_basics
-- file: intelligence_basics
-  sections:
-  - file: knowing_ai
-  - file: doing_ai
-  - file: evaluating_ai
-- file: data_basics
-  sections:
-  - file: image_basics
-  - file: audio_basics
-  - file: text_basics
-  - file: eeg_basics
-- file: algo_basics
-  sections:
-  - file: fourier_basics
-  - file: polynomial_basics
-  - file: pca_basics
-  - file: clustering_basics
-  - file: knn_basics
-  - file: gradient_descent_basics
-- file: application_basics
-  sections:
-  - file: image_recognition
-- file: beyond_basics
+- file: ric_ai4all
+# - file: python_basics
+# - file: intelligence_basics
+#   sections:
+#   - file: knowing_ai
+#   - file: doing_ai
+#   - file: evaluating_ai
+# - file: data_basics
+#   sections:
+#   - file: image_basics
+#   - file: audio_basics
+#   - file: text_basics
+#   - file: eeg_basics
+# - file: algo_basics
+#   sections:
+#   - file: fourier_basics
+#   - file: polynomial_basics
+#   - file: pca_basics
+#   - file: clustering_basics
+#   - file: knn_basics
+#   - file: gradient_descent_basics
+# - file: application_basics
+#   sections:
+#   - file: image_recognition
+# - file: beyond_basics
