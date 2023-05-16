@@ -5,24 +5,23 @@ Artificial Intelligence (AI) is not just for computer scientists and engineers, 
 
 `````{admonition} What is intelligence, AI, and the AI landscape
 :class: tip
-* [Lecture Slides](https://neerajww.github.io/ai4all/ric_AI4All_lect_main.pdf)
+* [Lecture Slides](https://drive.google.com/file/d/11G0kzq8Z17WN8cwELVxpEspLIrMHw0ZV/view?usp=sharing)
+* [AI for Everyone? Andrew Ng](https://www.youtube.com/watch?v=jTKc7-K22jw)
 `````
 
 `````{admonition} Computing with python
 :class: tip
-* [Lecture Slides](slides.pdf)
-* [Jupyter Notebook](link)
+* [Getting started](https://www.python.org/about/gettingstarted/)
 `````
 
 `````{admonition} Methods: Gradient Descent
 :class: tip
-* [Lecture Slides](slides.pdf)
-* [Blog](link)
-* [Jupyter Notebook](link)
+* [What is it?](https://en.wikipedia.org/wiki/Gradient_descent)
+* [A tutorial?](https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent)
 `````
 
 `````{admonition} Deployement: Using Gradio
 :class: tip
-* [Lecture Slides](slides.pdf)
 * [Tutorial Jupyter Notebook](https://mlswagat.github.io/tools.html)
+* [Hugging Spaces Tutorial](https://huggingface.co/spaces/mlswagat/bootcampiitg)
 `````
